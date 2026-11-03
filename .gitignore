@@ -1,0 +1,11 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# Local tooling
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
